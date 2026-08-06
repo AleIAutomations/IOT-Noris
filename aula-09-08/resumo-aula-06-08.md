@@ -8,3 +8,4 @@ basicamente primeira aula professor ensinou como conectar os esp32 na protoboard
 insigths
 perna maior do led é positivo, menor negativo
 resistor precisa ser de 2 tracos vermelhos
+uma perna do resitor mesma coluna do negativo, outra na linha da proto
