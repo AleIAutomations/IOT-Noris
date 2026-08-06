@@ -9,3 +9,7 @@ insigths
 perna maior do led é positivo, menor negativo
 resistor precisa ser de 2 tracos vermelhos
 uma perna do resitor mesma coluna do negativo, outra na linha da protoboard
+
+--
+incorparar biblioteca bluetooth - 
+esp32 ble keyboard o nome
