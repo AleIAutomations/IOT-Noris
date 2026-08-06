@@ -4,3 +4,6 @@ basicamente primeira aula professor ensinou como conectar os esp32 na protoboard
 2 - liga os conectores na linha onde tem positivo ou negativo na mesma linha que esta os conectores do esp
 3 - coloca led
 4 - coloca botao, 2 botoes
+
+insigths
+perna maior do led é positivo, menor negativo
