@@ -1,5 +1,6 @@
 void setup() {
 
     PinMode (LED, OUTPUT)
-    PinMode ()
+    PinMode (LED, INPUT)
+    #passaslide
 }
